@@ -40,8 +40,6 @@
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1b040de4-bc40-42a9-916e-eaeffd135954" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/72c86a9e-23ea-490c-b5cc-19aabb9cbf9e" />
-
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/524c717e-cb94-4e57-a46a-156c3e394544" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/566df126-b762-48c9-be9b-f9cbc6898c46" />
