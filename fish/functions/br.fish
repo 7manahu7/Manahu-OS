@@ -1,0 +1,1 @@
+/home/manahu/.local/share/broot/launcher/fish/br.fish
